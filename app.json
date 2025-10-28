@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Give Me Money",
+    "slug": "give-me-money",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "backgroundColor": "#ffffff",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
